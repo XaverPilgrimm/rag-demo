@@ -1,5 +1,7 @@
-.env 
-.idea/ 
-data/raw/ 
-__pycache__/ 
-*.pyc 
+.env
+.idea/
+.vs/
+.vscode/
+data/raw/
+__pycache__/
+*.pyc
